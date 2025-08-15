@@ -1,0 +1,6 @@
+# script_template: "setup.iss"
+app_id: 154e43c4-b274-433d-976c-7752d5aa87f4
+display_name: llmings
+create_desktop_icon: true
+locales:
+  - en

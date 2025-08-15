@@ -1,0 +1,13 @@
+display_name: llmings
+
+icon: assets/logo.png
+
+keywords:
+  - LLM
+
+generic_name: llmings
+
+metainfo: linux/packaging/llmings.appdata.xml
+
+categories:
+  - Education
